@@ -1,7 +1,6 @@
 # Task-Intern-Career-
 This is my 3rd Project.
 It is on Titanic Dataset. It contains Python Code and Project Report.
-
 Insights from the project: -
 (i) Female Passengers had higher chance to survive than male passengers.
 (ii) Class 1st Passengers had higher chance to survive rather than 2nd or 3rd class.
