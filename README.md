@@ -1,6 +1,6 @@
 # Task-Intern-Career-
 This is my 3rd Project.
-Project on Titanic Dataset. This Project contains Python Code and Project Report.
+It is on Titanic Dataset. It contains Python Code and Project Report.
 
 Insights from the project: -
 (i) Female Passengers had higher chance to survive than male passengers.
