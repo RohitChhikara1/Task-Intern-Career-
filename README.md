@@ -1,2 +1,2 @@
 # Task-Intern-Career-
-Project on Titanic Dataset. This repository contains Python Code and Project Report.
+Project on Titanic Dataset. This Project contains Python Code and Project Report.
